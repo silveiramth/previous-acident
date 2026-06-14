@@ -56,7 +56,7 @@ Prever quais passageiros sobreviveriam ao naufrágio do Titanic com base em cara
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/titanic-analysis.git
+git clone https://github.com/silveiramth/previous-acident
 ```
 
 2. Instale as dependências:

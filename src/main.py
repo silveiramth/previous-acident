@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-df = pd.read_csv('train.csv')
+df = pd.read_csv('archives/train.csv')
 
 df['Age'] = df['Age'].fillna(df['Age'].mean())
 df['Fare'] = df['Fare'].fillna(df['Fare'].median())
