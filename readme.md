@@ -8,6 +8,8 @@ Análise exploratória e modelo preditivo de sobrevivência dos passageiros do T
 
 Prever quais passageiros sobreviveriam ao naufrágio do Titanic com base em características como sexo, idade, classe da passagem e valor da tarifa.
 
+Porém, o objetivo principal desse modelo é aprender sobre machine learning e aplicar para outras soluções.
+
 ---
 
 ## Tecnologias utilizadas
