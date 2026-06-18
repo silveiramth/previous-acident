@@ -17,8 +17,7 @@ df['Embarked'] = df['Embarked'].map({
     "S": 0,
     "C": 1,
     "Q": 2
-}) 
-
+})
 
 df['FamilySize'] = df['SibSp'] + df['Parch']
 df['isAlone'] = (df['FamilySize'] == 0)
